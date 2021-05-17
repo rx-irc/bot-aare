@@ -3,3 +3,6 @@
 
 ## Commands
 * `aare`
+
+## Logging
+The scope for the `DEBUG` environment variable is `rx-irc:bot:aare`.
